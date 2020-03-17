@@ -1,12 +1,12 @@
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110947112-3"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-160613202-2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-110947112-3');
+  gtag('config', 'UA-160613202-2');
 </script>
 </head>
 
@@ -103,7 +103,7 @@ Point to the animals as you sing. / Aponta para os animais enquanto cantas.-->
 
 Can you say what you like to do? / Sabes dizer o que gostas de fazer?  
 
-[![vchb](/images/vchb.PNG){:height="60px"}](https://tangerina-pt.github.io/English/Hobbies_C)  
+[![vchb](/images/vchb.PNG){:height="60px"}](https://english-homework.github.io/KidooLand/Hobbies_C)  
 
 ***Answer:*** **'I like ____ but I don't like ____ .' ('Eu gosto de ____ mas não gosto de ____ .')**
 
@@ -128,7 +128,7 @@ Can you say what you like to do? / Sabes dizer o que gostas de fazer?
 [![wdwd1](/images/wdwd1.png){:height="60px"}](https://www.youtube.com/watch?v=GSph7bc8k-4) [What do you want to do?](https://www.youtube.com/watch?v=GSph7bc8k-4)
 
 ***
-[![home](/images/home.PNG){:height="60px"}](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
+[![home](/images/home.PNG){:height="60px"}](https://english-homework.github.io/KidooLand) [Return to the Tangerina English Homepage](https://english-homework.github.io/KidooLand)
 
 ***
 

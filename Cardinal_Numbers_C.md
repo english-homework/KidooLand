@@ -57,7 +57,7 @@ Challenge - can you do all 5 activities? / Desafio - Consegues fazer todas as ac
 Listen to the numbers in the recording. Can you put them in order while you are listening? Can you group them into numbers you hear and numbers you don’t hear? / Ouve os números na gravação. Consegues identificá-los e pô-los em ordem enquanto ouvires? Consegues grupar os números indicando se os ouviste ou não?-->  
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year3_vocab) [Return to Year 3 English Vocabulary Site](https://tangerina-pt.github.io/English/Year3_vocab)
+[![home](/images/home.PNG)](https://english-homework.github.io/KidooLand/Year3_vocab) [Return to Year 3 English Vocabulary Site](https://english-homework.github.io/KidooLand/Year3_vocab)
 
 ***
 #### Notes / Notas

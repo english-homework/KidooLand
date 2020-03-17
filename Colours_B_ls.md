@@ -1,12 +1,12 @@
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110947112-3"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-160613202-2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-110947112-3');
+  gtag('config', 'UA-160613202-2');
 </script>
 </head>
 
@@ -27,6 +27,6 @@
 [![gae6](/images/gae6.png)](https://www.youtube.com/watch?v=_2WAwT9cKAk) Watch [Gogo’s Adventures with English 6](https://www.youtube.com/watch?v=_2WAwT9cKAk)
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Colours_B) [Return to Year 2 - Colours](https://tangerina-pt.github.io/English/Colours_B)
+[![home](/images/home.PNG)](https://english-homework.github.io/KidooLand/Colours_B) [Return to Year 2 - Colours](https://english-homework.github.io/KidooLand/Colours_B)
 
 ***

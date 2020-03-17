@@ -20,7 +20,7 @@ Cantar ao apontar para as imagens.
 ![knee](/images/knee.png)![eyes](/images/eyes.png)![head](/images/head.png)![mout](/images/mout.png)  
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Body_Parts_B) [Return to Year 2 Body Parts Site](https://tangerina-pt.github.io/English/Body_Parts_B)
+[![home](/images/home.PNG)](https://english-homework.github.io/KidooLand/Body_Parts_B) [Return to Year 2 Body Parts Site](https://english-homework.github.io/KidooLand/Body_Parts_B)
 
 ***
 

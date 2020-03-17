@@ -1,12 +1,12 @@
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-160613202-1"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-160613202-2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-160613202-1');
+  gtag('config', 'UA-160613202-2');
 </script>
 </head>
 
@@ -32,7 +32,7 @@
 [![weme2](/images/weme2.PNG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html) [Jeu de mémoire](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html) (Jeu de ESL Games World)  
 
 ***
-[![home](/images/home.png){:height="50px"}](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)
+[![home](/images/home.png){:height="50px"}](https://english-homework.github.io/KidooLand) [Return to the English Homepage](https://english-homework.github.io/KidooLand)
 
 ***
 #### Notes

@@ -1,11 +1,11 @@
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110947112-3"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-160613202-2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'UA-110947112-3');
+  gtag('config', 'UA-160613202-2');
 </script>
 </head>
 
@@ -37,7 +37,7 @@ I haven’t got a ruler. – Não tenho uma régua. <audio src="audio/ing_rul.m4
 
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English) [Return to the Tangerina English Homepage](https://tangerina-pt.github.io/English)
+[![home](/images/home.PNG)](https://english-homework.github.io/KidooLand) [Return to the Tangerina English Homepage](https://english-homework.github.io/KidooLand)
 
 ***
 

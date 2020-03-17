@@ -1,11 +1,11 @@
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-160613202-1"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-160613202-2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'UA-160613202-1');
+  gtag('config', 'UA-160613202-2');
 </script>
 </head>
 
@@ -38,6 +38,6 @@ N.B. Nos E.U.A. a estrutura mais simples 'I have...' é comum mas os currículos
 **Adjectives (come before the noun) e.g. / (Adjectivos (vêm antes da palavra que descrevem) p.ex.**   **'big(grande)/small(pequeno)/long(comprido)/short(curto)/clean(limpo)/dirty(sujo)/ugly(feio)/beautiful(bonito)'**  
 
 ***
-[![home](/images/home.png){:height="50px"}](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)
+[![home](/images/home.png){:height="50px"}](https://english-homework.github.io/KidooLand) [Return to the English Homepage](https://english-homework.github.io/KidooLand)
 
 ***

@@ -1,19 +1,19 @@
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-160613202-1"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-160613202-2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'UA-160613202-1');
+  gtag('config', 'UA-160613202-2');
 </script>
 </head>
 
 ### Number/Numéros
 
-#### [![numb2](/images/numb2.PNG){:height="75px"}](https://1blockatatime.github.io/English/Number_I) [Apprendre números 1-10/Learn Numbers 1-10](https://1blockatatime.github.io/English/Number_I)   
+#### [![numb2](/images/numb2.PNG){:height="75px"}](https://english-homework.github.io/KidooLand/Number_I) [Apprendre números 1-10/Learn Numbers 1-10](https://english-homework.github.io/KidooLand/Number_I)   
 
-#### [![numb3](/images/numb3.PNG){:height="75px"}](https://1blockatatime.github.io/English/Number_II) [Apprendre números 1-20/Learn Numbers 1-20](https://1blockatatime.github.io/English/Number_II)    
+#### [![numb3](/images/numb3.PNG){:height="75px"}](https://english-homework.github.io/KidooLand/Number_II) [Apprendre números 1-20/Learn Numbers 1-20](https://english-homework.github.io/KidooLand/Number_II)    
 
 ### Language Structures
 
@@ -33,6 +33,6 @@
 
 ***
 
-[![home](/images/home.png){:height="50px"}](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)
+[![home](/images/home.png){:height="50px"}](https://english-homework.github.io/KidooLand) [Return to the English Homepage](https://english-homework.github.io/KidooLand)
 
 ***

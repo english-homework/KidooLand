@@ -19,7 +19,7 @@ Play some games to learn the colours/Joga alguns jogos para aprender as cores:
    Click on the letters to spell the colour then click on ‘Check’./Clica nas letras no ecrã para soletrar a cor e clica no ‘check’.  
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year3_vocab) [Return to Year 3 English Vocabulary Site](https://tangerina-pt.github.io/English/Year3_vocab)
+[![home](/images/home.PNG)](https://english-homework.github.io/KidooLand/Year3_vocab) [Return to Year 3 English Vocabulary Site](https://english-homework.github.io/KidooLand/Year3_vocab)
 
 ***
 
