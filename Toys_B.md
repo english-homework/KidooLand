@@ -75,7 +75,7 @@ Défi supplémentaire : peux-tu faire toutes les activités? Clique sur
 (Jeu de Anglomaniacy)  
 
 ***
-[![home](/images/home.png){:height="50px"}](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)
+[![home](/images/home.png){:height="50px"}](https://https://english-homework.github.io/KidooLand) [Return to the English Homepage](https://https://english-homework.github.io/KidooLand)
 
 ***
 #### Notes
