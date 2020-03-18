@@ -58,7 +58,6 @@ Topic 14 - Language for playing games...
 ## [Topic 13 - Shapes](https://english-homework.github.io/KidooLand/Shapes_B) [![shape](/images/shape.PNG){:height="30px"}](https://english-homework.github.io/KidooLand/Shapes_B)
 ## [Topic 12 - Classroom instructions](https://english-homework.github.io/KidooLand/Classroom_I_B) [![clin](/images/clin.PNG){:height="30px"}](https://english-homework.github.io/KidooLand/Classroom_I_B)-->
 
-***
 [![home](/images/home.png){:height="50px"}](https://english-homework.github.io/KidooLand) [Return to the English Homepage](https://english-homework.github.io/KidooLand)
 
 ***
