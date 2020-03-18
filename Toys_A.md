@@ -1,13 +1,12 @@
-<head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-160613202-1"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-160613202-2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'UA-160613202-1');
+
+  gtag('config', 'UA-160613202-2');
 </script>
-</head>
 
 ### Toys
 
@@ -37,7 +36,7 @@
 [![mety](/images/mety.PNG){:height="75px"}](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/)  [![memins1fr](/images/memins1fr.PNG){:height="50px"}](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/) (Jeu de Kids Learning Ville)  
 
 ***
-[![home](/images/home.png){:height="50px"}](https://https://english-homework.github.io/KidooLand) [Return to the English Homepage](https://https://english-homework.github.io/KidooLand)
+[![home](/images/home.png){:height="50px"}](https://english-homework.github.io/KidooLand) [Return to the English Homepage](https://english-homework.github.io/KidooLand)
 
 ***
 #### Notes
