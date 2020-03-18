@@ -12,11 +12,11 @@
 
 ### Colours
 
-#### ![sing](/images/sing.png) [Song/Canção](https://english-homework.github.io/KidooLand/Colours_B_song)
-#### ![talk](/images/talk.png) [Language structures/Estruturas](https://english-homework.github.io/KidooLand/Colours_B_ls)
-#### ![silh_game](/images/silh_game.jpg) [Games/Jogos](https://english-homework.github.io/KidooLand/Colours_B_g)
+#### ![sing](/images/sing.png){:height="40px"} [Song/Canção](https://english-homework.github.io/KidooLand/Colours_B_song)
+#### ![talk](/images/talk.png){:height="40px"} [Language structures/Estruturas](https://english-homework.github.io/KidooLand/Colours_B_ls)
+#### ![silh_game](/images/silh_game.jpg){:height="40px"} [Games/Jogos](https://english-homework.github.io/KidooLand/Colours_B_g)
 
 ***
-[![home](/images/home.PNG)](https://english-homework.github.io/KidooLand) [Return to the Tangerina English Homepage](https://english-homework.github.io/KidooLand)
+[![home](/images/home.PNG)](https://english-homework.github.io/KidooLand) [Return to the English Homepage](https://english-homework.github.io/KidooLand)
 
 ***
