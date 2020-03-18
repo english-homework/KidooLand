@@ -37,6 +37,7 @@ Level 2 English
 
 ## Topic 11 - Classroom objects ![classo](/images/classo.png){:height="40px"}
 
+## Topic 12 - Food ![food](/images/food.PNG){:height="40px"}
 
 <!--
 ## [Topic 6 - Talking about colour](https://english-homework.github.io/KidooLand/Colours_B)[![colmix2](/images/colmix2.png){:height="40px"}](https://english-homework.github.io/KidooLand/Colours_B)
