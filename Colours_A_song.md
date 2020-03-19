@@ -14,17 +14,14 @@
 
 #### Chanson traditionelle: *I can sing a rainbow* (*Je peux chanter un arc-en-ciel*)  
 
-[![rainb](/images/rainb.png){:height="75px"}](https://www.youtube.com/watch?v=y7nE4ADGaOc?start=0&end=93) [I can sing a rainbow] (Chanson traditionelle de AprenderYdivertirse)  
+[![rainb](/images/rainb.png){:height="75px"}](https://www.youtube.com/watch?v=y7nE4ADGaOc?start=0&end=33) I can sing a rainbow (Chanson traditionelle de AprenderYdivertirse)  
 
 Red and yellow and pink and green, orange and purple and blue.  
 (Rouge et jaune et rose et vert, orange et violet et bleu.)   
 I can sing a rainbow, sing a rainbow, sing a rainbow too.  
 (Je peux chanter un arc-en-ciel, chanter un arc-en-ciel, chanter un arc-en-ciel aussi.)  
 
-![listen](/images/listen.png) the song: <audio src="audio/V1s2.m4a" controls preload></audio>  
-
-Red and yellow and pink and green, orange and purple and blue.  
-I can sing a rainbow, sing a rainbow, sing a rainbow too.  
+![listen](/images/listen.png){:height="35px"} + ![sing](/sing.png){:height="35px"}: <audio src="audio/V1s2.m4a" controls preload></audio>  
 
 ![colballtr](/images/colballtr.png){:height="75px"} 
 
@@ -40,11 +37,6 @@ Defi: Peux-tu chanter la chanson et pointer vers chaque couleur que tu chantes l
 
 ***Question:*** **'What colour is it?' (C'est de quelle couleur?)**  
 ***Answer:*** **'It's ..*colour*.. .' (C'est ..*couleur*)**
-
-***
-[![home](/images/home.PNG)](https://english-homework.github.io/KidooLand) [Return to the English Homepage](https://english-homework.github.io/KidooLand)
-
-***
 
 ***
 [![home](/images/home.png){:height="50px"}](https://english-homework.github.io/KidooLand) [Return to the English Homepage](https://english-homework.github.io/KidooLand)
