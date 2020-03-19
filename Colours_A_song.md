@@ -21,28 +21,25 @@ Red and yellow and pink and green, orange and purple and blue.
 I can sing a rainbow, sing a rainbow, sing a rainbow too.  
 (Je peux chanter un arc-en-ciel, chanter un arc-en-ciel, chanter un arc-en-ciel aussi.)  
 
-#### Jeux
-
-[![cobi](/images/cobi.PNG){:height="75px"}](http://www.abcya.com/shapes_colors_bingo.htm) [Bingo](http://www.abcya.com/shapes_colors_bingo.htm) Clique sur ‘Colors’ ![cobi2](/images/cobi2.PNG){:height="60px"} (Jeu de ABCya)    
-
-[![meco](/images/meco.PNG)](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) [Jeu de memoire](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) (Jeu de ESL Games Plus)    
-
-<!--   
-[Blooper's colours](http://www.sheppardsoftware.com/preschool/ngames/colors.htm) [![ssbl](/images/ssbl.PNG)](http://www.sheppardsoftware.com/preschool/ngames/colors.htm)   
-[![ssco](/images/ssco.PNG)](http://www.sheppardsoftware.com/preschool/colors/colorgame.htm)  [Les couleurs](http://www.sheppardsoftware.com/preschool/colors/colorgame.htm) Apprends nouveau mots... ---> 
-
 ![listen](/images/listen.png) the song: <audio src="audio/V1s2.m4a" controls preload></audio>  
 
 Red and yellow and pink and green, orange and purple and blue.  
 I can sing a rainbow, sing a rainbow, sing a rainbow too.  
 
-![colballtr](/images/colballtr.png){:height="50px"} 
+![colballtr](/images/colballtr.png){:height="75px"} 
 
 Peux-tu chanter la chanson et pointer vers chaque couleur que tu chantes?  
 
 ![colmix](/images/colmix.png)
 
 Defi: Peux-tu chanter la chanson et pointer vers chaque couleur que tu chantes lorsque les couleurs sont en panne? 
+
+#### What colour is it? (C'est de quelle couleur?)
+
+[![dewc](/images/dewc.png)](https://www.youtube.com/watch?v=YyFLBTTAbSE)  (Chanson de Dream English)
+
+***Question:*** **'What colour is it?' (C'est de quelle couleur?)**  
+***Answer:*** **'It's ..*colour*.. .' (C'est ..*couleur*)**
 
 ***
 [![home](/images/home.PNG)](https://english-homework.github.io/KidooLand) [Return to the English Homepage](https://english-homework.github.io/KidooLand)
