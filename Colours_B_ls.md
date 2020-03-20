@@ -12,21 +12,26 @@
 
 ### Colours - Language structures
 
-***Question:*** **'What colour is it?' (De que cor é?)**  
-***Answer:*** **'It's ..*colour*.. .' (É ..*cor*.. .)**
+[![dewc](/images/dewc.png){:height="75px"}](https://www.youtube.com/watch?v=YyFLBTTAbSE)
 
-[![dewc](/images/dewc.png)](https://www.youtube.com/watch?v=YyFLBTTAbSE)
+***Question:*** **'What colour is it?' (C'est de quelle couleur?)**  
+***Answer:*** **'It's ..*colour*.. .' (C'est ..*couleur*)**  
 
-***Answer:*** **'The ..*Object*.. is ..*Colour*..' (O ..*Objecto* é ..*Cor*..)**
+*** 
 
-[![bbar](/images/bbar.png)](https://www.youtube.com/watch?v=1jv0Gx_q_OU)
+[![bbar](/images/bbar.png){:height="75px"}](https://www.youtube.com/watch?v=1jv0Gx_q_OU)
 
-***Question:*** **'What colour is this/that?' (De que cor é isto/isso?)**  
-***Answer:*** **'It's/that's ..*colour*.. .' (É/Isso é ..*cor*.. .)**
-
-[![gae6](/images/gae6.png)](https://www.youtube.com/watch?v=_2WAwT9cKAk) Watch [Gogo’s Adventures with English 6](https://www.youtube.com/watch?v=_2WAwT9cKAk)
+***Answer:*** **'The ..*Object*.. is ..*Colour*..' (Le/la/l' ..*Objet* est ..*Couleur*..)**
 
 ***
-[![home](/images/home.PNG)](https://english-homework.github.io/KidooLand/Colours_B) [Return to Year 2 - Colours](https://english-homework.github.io/KidooLand/Colours_B)
+
+[![gae6](/images/gae6.png){:height="75px"}](https://www.youtube.com/watch?v=_2WAwT9cKAk) Watch [Gogo’s Adventures with English 6](https://www.youtube.com/watch?v=_2WAwT9cKAk)  
+
+***Question:*** **'What colour is this/that?' (De que cor é isto/isso?)**  
+***Answer:*** **'It's/that's ..*colour*.. .' (É/Isso é ..*cor*.. .)**  
+
+
+***
+[![home](/images/home.png){:height="50px"}](https://english-homework.github.io/KidooLand) [Return to the English Homepage](https://english-homework.github.io/KidooLand)
 
 ***
