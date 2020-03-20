@@ -1,3 +1,15 @@
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-160613202-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-160613202-2');
+</script>
+</head>
+
 ### Colours
 
 [![rainb](/images/rainb.png){:height="75px"}](https://www.youtube.com/watch?v=y7nE4ADGaOc?start=0&end=33) [I can sing a rainbow](https://www.youtube.com/watch?v=y7nE4ADGaOc?start=0&end=33) (Chanson  traditionelle de AprenderYdivertirse)  
@@ -41,7 +53,7 @@ I can sing a rainbow, sing a rainbow, sing a rainbow today.
 
 ***  
 
-![colmix2](/images/colmix2.png) ![rainbbfr](/images/rainbbfr.PNG){:height="95px"}
+<!--![colmix2](/images/colmix2.png) ![rainbbfr](/images/rainbbfr.PNG){:height="95px"}-->
 
 ***
 [![home](/images/home.png){:height="50px"}](https://english-homework.github.io/KidooLand) [Return to the English Homepage](https://english-homework.github.io/KidooLand)
