@@ -15,21 +15,20 @@
 [![dewc](/images/dewc.png){:height="75px"}](https://www.youtube.com/watch?v=YyFLBTTAbSE)
 
 ***Question:*** **'What colour is it?' (C'est de quelle couleur?)**  
-***Answer:*** **'It's ..*colour*.. .' (C'est ..*couleur*)**  
+***Answer:*** **'It's blue.' (C'est bleu.)**  
 
 *** 
 
 [![bbar](/images/bbar.png){:height="75px"}](https://www.youtube.com/watch?v=1jv0Gx_q_OU)
 
-***Answer:*** **'The ..*Object*.. is ..*Colour*..' (Le/la/l' ..*Objet* est ..*Couleur*..)**
+***Answer:*** **'The apple is red.' (La pomme est rouge.)**
 
 ***
 
 [![gae6](/images/gae6.png){:height="75px"}](https://www.youtube.com/watch?v=_2WAwT9cKAk) Watch [Gogo’s Adventures with English 6](https://www.youtube.com/watch?v=_2WAwT9cKAk)  
 
 ***Question:*** **'What colour is this/that?' (De que cor é isto/isso?)**  
-***Answer:*** **'It's/that's ..*colour*.. .' (É/Isso é ..*cor*.. .)**  
-
+***Answer:*** **'It's/that's green.' (C'est vert.)**  
 
 ***
 [![home](/images/home.png){:height="50px"}](https://english-homework.github.io/KidooLand) [Return to the English Homepage](https://english-homework.github.io/KidooLand)
