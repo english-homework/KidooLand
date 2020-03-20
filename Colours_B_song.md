@@ -44,6 +44,6 @@ I can sing a rainbow, sing a rainbow, sing a rainbow today.
 ![colmix2](/images/colmix2.png) ![rainbbfr](/images/rainbbfr.PNG){:height="80px"}
 
 ***
-[![home](/images/home.png)](https://english-homework.github.io/KidooLand/Colours_B) [Return to Year 2 - Colours](https://english-homework.github.io/KidooLand/Colours_B)
+[![home](/images/home.png){:height="50px"}](https://english-homework.github.io/KidooLand) [Return to the English Homepage](https://english-homework.github.io/KidooLand)
 
 ***
