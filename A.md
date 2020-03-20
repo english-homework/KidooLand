@@ -15,11 +15,11 @@ Level 1 English
 </h1>
 <!--# Level 1 English -->
 ## [Topic 1 - Greetings](https://english-homework.github.io/KidooLand/Greetings_A) [![gtsym](/images/gtsym.PNG){:height="40px"}](https://english-homework.github.io/KidooLand/Greetings_A)   
-## [Topic 2 - Numbers 1-10](https://english-homework.github.io/KidooLand/Number_A) [![numb2](/images/numb2.PNG){:height="40px"}](https://english-homework.github.io/KidooLand/Number_A)  
-## [Topic 3 - Weather](https://english-homework.github.io/KidooLand/Weather_A) [![wsym](/images/wsym.PNG){:height="40px"}](https://english-homework.github.io/KidooLand/Weather_A)
-## [Topic 4 - Toys](https://english-homework.github.io/KidooLand/Toys_A) [![toys](/images/toys.PNG){:height="40px"}](https://english-homework.github.io/KidooLand/Toys_A)
+## [Topic 2 - Colours](https://english-homework.github.io/KidooLand/Colours_A) [![colmix](/images/colmix.png){:height="40px" width="40px"}](https://english-homework.github.io/KidooLand/Colours_A)  
+## [Topic 3 - Numbers 1-10](https://english-homework.github.io/KidooLand/Number_A) [![numb2](/images/numb2.PNG){:height="40px"}](https://english-homework.github.io/KidooLand/Number_A)  
+## [Topic 4 - Weather](https://english-homework.github.io/KidooLand/Weather_A) [![wsym](/images/wsym.PNG){:height="40px"}](https://english-homework.github.io/KidooLand/Weather_A)
+## [Topic 5 - Toys](https://english-homework.github.io/KidooLand/Toys_A) [![toys](/images/toys.PNG){:height="40px"}](https://english-homework.github.io/KidooLand/Toys_A)
 
-## Topic 5 - Colours ![colmix](/images/colmix.png){:height="40px" width="40px"}
 ## Topic 6 - Body parts ![body](/images/body.PNG){:height="40px"}
 ## Topic 7 - Actions ![stand](/images/stand.png){:height="40px"}
 ## Topic 8 - Family ![fam](/images/fam.jpg){:height="40px"}
@@ -30,7 +30,6 @@ Level 1 English
 
 <!--## Prepositions of Place ![prep](/images/prep.png){:height="40px"}
 ## [Feelings - How are you?](https://english-homework.github.io/KidooLand/Feelings_A) [![hoyt](/images/hoyt.png){:height="30px"}](https://english-homework.github.io/KidooLand/Feelings_A)
-## [Topic 5 - Colours](https://english-homework.github.io/KidooLand/Colours_A) [![colmix](/images/colmix.png){:height="40px" width="40px"}](https://english-homework.github.io/KidooLand/Colours_A)
 ## [Topic 6 - Body parts](https://english-homework.github.io/KidooLand/Body_Parts_A) [![body](/images/body.PNG){:height="40px"}](https://english-homework.github.io/KidooLand/Body_Parts_A)
 ## [Topic 7 - Actions](https://english-homework.github.io/KidooLand/Actions_A) [![stand](/images/stand.png){:height="30px"}](https://english-homework.github.io/KidooLand/Actions_A)
 ## [Topic 8 - Family](https://english-homework.github.io/KidooLand/Family_A) [![fam](/images/fam.jpg){:height="40px"}](https://english-homework.github.io/KidooLand/Family_A)
