@@ -15,10 +15,6 @@ I can sing a rainbow, sing a rainbow, sing a rainbow too.
 ***Tâche 1:*** Écoute et pointe vers chaque couleur quand tu entends le nom.  
 ***Tâche 2:*** Chante la chanson et pointe vers chaque couleur que tu chantes.  
 
-***  
-
-![v2](/images/v2.png) ![rainbbfr](/images/rainbbfr.PNG){:height="80px"}  
-
 ***
 
 ![colmix](/images/colmix.png) ![rainbbfr](/images/rainbbfr.PNG){:height="80px"}
@@ -38,6 +34,10 @@ I can sing a rainbow, sing a rainbow, sing a rainbow today.
 
 ***Tâche 1:*** Écoute et pointe vers chaque couleur quand tu entends le nom.  
 ***Tâche 2:*** Chante la chanson et pointe vers chaque couleur que tu chantes.  
+
+***  
+
+![v2](/images/v2.png){:height="70px"} ![rainbbfr](/images/rainbbfr.PNG){:height="80px"}  
 
 ***  
 
