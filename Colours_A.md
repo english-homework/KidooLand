@@ -31,20 +31,20 @@ I can sing a rainbow, sing a rainbow, sing a rainbow too.
 ***Tâche 1:*** Écoute et pointe vers chaque couleur quand tu entends le nom.  
 ***Tâche 2:*** Chante la chanson et pointe vers chaque couleur que tu chantes.  
 
-![colmix](/images/colmix.png)
+***  
 
-***Defi:*** Peux-tu chanter la chanson et pointer vers chaque couleur que tu chantes lorsque les couleurs sont en panne?  
+![colmix](/images/colmix.png) ![rainbb](/images/rainbb.PNG)
 
 ***  
 
-[![dewc](/images/dewc.png)](https://www.youtube.com/watch?v=YyFLBTTAbSE)  (Chanson de Dream English)
+[![dewc](/images/dewc.png)](https://www.youtube.com/watch?v=YyFLBTTAbSE) (Chanson de Dream English)  
 
 ***Question:*** **'What colour is it?' (C'est de quelle couleur?)**  
 ***Answer:*** **'It's ..*colour*.. .' (C'est ..*couleur*)**
 
 ***  
 
-[![cobi](/images/cobi.PNG){:height="75px"}](http://www.abcya.com/shapes_colors_bingo.htm) [Bingo](http://www.abcya.com/shapes_colors_bingo.htm) Clique sur ‘Colors’ ![cobi2](/images/cobi2.PNG){:height="60px"} (Jeu de ABCya)    
+[![cobi](/images/cobi.PNG){:height="75px"}](http://www.abcya.com/shapes_colors_bingo.htm) [BINGO](http://www.abcya.com/shapes_colors_bingo.htm) Clique sur ‘Colors’ ![cobi2](/images/cobi2.PNG){:height="60px"} (Jeu de ABCya)    
 
 ***  
 
