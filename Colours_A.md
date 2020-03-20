@@ -37,7 +37,7 @@ I can sing a rainbow, sing a rainbow, sing a rainbow too.
 
 ***  
 
-[![dewc](/images/dewc.png){:height="75px"}](https://www.youtube.com/watch?v=YyFLBTTAbSE) (Chanson de Dream English)  
+[![dewc](/images/dewc.png){:height="75px"}](https://www.youtube.com/watch?v=YyFLBTTAbSE) [What colour is it?](https://www.youtube.com/watch?v=YyFLBTTAbSE) (Chanson de Dream English)  
 
 ***Question:*** **'What colour is it?' (C'est de quelle couleur?)**  
 ***Answer:*** **'It's ..*colour*.. .' (C'est ..*couleur*)**
