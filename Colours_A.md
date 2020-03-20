@@ -26,7 +26,7 @@ I can sing a rainbow, sing a rainbow, sing a rainbow too.
 <!--![listen](/images/listen.png){:height="35px"} + ![sing](/sing.PNG){:height="35px"}:-->
 <audio src="audio/V1s2.m4a" controls preload></audio>  
 
-![colballtr](/images/colballtr.png){:height="80px"} 
+![colballtr](/images/colballtr.png){:height="70px"} 
 
 ***Tâche 1:*** Écoute et pointe vers chaque couleur quand tu entends le nom.  
 ***Tâche 2:*** Chante la chanson et pointe vers chaque couleur que tu chantes.  
