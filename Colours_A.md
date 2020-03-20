@@ -33,7 +33,7 @@ I can sing a rainbow, sing a rainbow, sing a rainbow too.
 
 ***  
 
-![colmix](/images/colmix.png) ![rainbb](/images/rainbb.PNG){:height="80px"}
+![colmix](/images/colmix.png) ![rainbbfr](/images/rainbbfr.PNG){:height="80px"}
 
 ***  
 
