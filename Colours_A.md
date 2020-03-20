@@ -12,11 +12,11 @@
 
 ### Colours
 
-[![lvwkcol1](/images/lvwkcol1.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Listen_and_Repeat_the_colours_vg3506tj) [![lvwkcol1bfr](/images/lvwkcol1bfr.PNG){:height="30px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Listen_and_Repeat_the_colours_vg3506tj) (Actividade de Liveworksheets)  
+[![lvwkcol1](/images/lvwkcol1.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Listen_and_Repeat_the_colours_vg3506tj) [![lvwkcol1bfr](/images/lvwkcol1bfr.PNG){:height="35px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Listen_and_Repeat_the_colours_vg3506tj) (Actividade de Liveworksheets)  
 
 ***
 
-[![rainb](/images/rainb.png){:height="75px"}](https://www.youtube.com/watch?v=y7nE4ADGaOc?start=0&end=33) I can sing a rainbow (Chanson  traditionelle de AprenderYdivertirse)  
+[![rainb](/images/rainb.png){:height="75px"}](https://www.youtube.com/watch?v=y7nE4ADGaOc?start=0&end=33) [I can sing a rainbow](https://www.youtube.com/watch?v=y7nE4ADGaOc?start=0&end=33) (Chanson  traditionelle de AprenderYdivertirse)  
 
 Red and yellow and pink and green, orange and purple and blue.  
 (Rouge et jaune et rose et vert, orange et violet et bleu.)   
