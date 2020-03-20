@@ -51,9 +51,8 @@ I can sing a rainbow, sing a rainbow, sing a rainbow today.
 
 ![v2](/images/v2.png){:height="210px"} ![rainbbfr](/images/rainbbfr.PNG){:height="95px"}  
 
-***  
-
-<!--![colmix2](/images/colmix2.png) ![rainbbfr](/images/rainbbfr.PNG){:height="95px"}-->
+<!--***
+![colmix2](/images/colmix2.png) ![rainbbfr](/images/rainbbfr.PNG){:height="95px"}-->
 
 ***
 [![home](/images/home.png){:height="50px"}](https://english-homework.github.io/KidooLand) [Return to the English Homepage](https://english-homework.github.io/KidooLand)
