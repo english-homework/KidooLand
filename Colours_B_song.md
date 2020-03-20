@@ -24,8 +24,8 @@ I can sing a rainbow, sing a rainbow, sing a rainbow too.
 ***Apprends le deuxième couplet et encore 7 couleurs:***  
 
 Gold and silver and brown and beige, black and white and grey.  
-(Or et argent et brun et beige, noir et blanc et gris.)
-I can sing a rainbow, sing a rainbow, sing a rainbow today.
+(Or et argent et brun et beige, noir et blanc et gris.)  
+I can sing a rainbow, sing a rainbow, sing a rainbow today.  
 (Je peux chanter un arc-en-ciel, chanter un arc-en-ciel, chanter un arc-en-ciel aujourd'hui.)  
 
 <audio src="audio/y2_v2.mp3" controls preload></audio>  
@@ -37,7 +37,7 @@ I can sing a rainbow, sing a rainbow, sing a rainbow today.
 
 ***  
 
-![v2](/images/v2.png){:height="70px"} ![rainbbfr](/images/rainbbfr.PNG){:height="80px"}  
+![v2](/images/v2.png){:height="210px"} ![rainbbfr](/images/rainbbfr.PNG){:height="80px"}  
 
 ***  
 
