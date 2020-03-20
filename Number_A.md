@@ -11,7 +11,7 @@
 
 ### Number/Numéros
 
-#### [![numb2](/images/numb2.PNG){:height="75px"}](https://english-homework.github.io/KidooLand/Number_I) [![numb2bfr](/images/numb2bfr.PNG){:height="50px"}](https://english-homework.github.io/KidooLand/Number_I)   
+#### [![numb2](/images/numb2.PNG){:height="75px"}](https://english-homework.github.io/KidooLand/Number_I) [![numb2bfr](/images/numb2bfr.PNG){:height="45px"}](https://english-homework.github.io/KidooLand/Number_I)   
 
 ### Language Structures
 
