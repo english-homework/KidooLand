@@ -19,11 +19,13 @@ Level 2 English
 
 ## [Topic 2 - Talking about feelings](https://english-homework.github.io/KidooLand/Feelings_B) [![prep](/images/hoyt.png){:height="40px"}](https://english-homework.github.io/KidooLand/Feelings_B) 
 
-## [Topic 3 - Talking about number](https://english-homework.github.io/KidooLand/Number_B)[![numb3](/images/numb3.PNG){:height="40px"}](https://english-homework.github.io/KidooLand/Number_B)
+## [Topic 3 - Talking about colour](https://english-homework.github.io/KidooLand/Colours_B)[![colmix2](/images/colmix2.png){:height="40px"}](https://english-homework.github.io/KidooLand/Colours_B)
 
-## [Topic 4 - Talking about the weather](https://english-homework.github.io/KidooLand/Weather_B)[![wsym](/images/wsym.PNG){:height="40px"}](https://english-homework.github.io/KidooLand/Weather_B)  
+## [Topic 4 - Talking about number](https://english-homework.github.io/KidooLand/Number_B)[![numb3](/images/numb3.PNG){:height="40px"}](https://english-homework.github.io/KidooLand/Number_B)
 
-## [Topic 5 - Toys](https://english-homework.github.io/KidooLand/Toys_B) [![toys](/images/toys.PNG){:height="40px"}](https://english-homework.github.io/KidooLand/Toys_B)
+## [Topic 5 - Talking about the weather](https://english-homework.github.io/KidooLand/Weather_B)[![wsym](/images/wsym.PNG){:height="40px"}](https://english-homework.github.io/KidooLand/Weather_B)  
+
+## [Topic 6 - Toys](https://english-homework.github.io/KidooLand/Toys_B) [![toys](/images/toys.PNG){:height="40px"}](https://english-homework.github.io/KidooLand/Toys_B)
 
 ## Topic 6 - Talking about colour ![colmix2](/images/colmix2.png){:height="40px"}
 
@@ -40,7 +42,6 @@ Level 2 English
 ## Topic 12 - Food ![food](/images/food.PNG){:height="40px"}
 
 <!--
-## [Topic 6 - Talking about colour](https://english-homework.github.io/KidooLand/Colours_B)[![colmix2](/images/colmix2.png){:height="40px"}](https://english-homework.github.io/KidooLand/Colours_B)
 ## [Topic 7 - The Alphabet](https://english-homework.github.io/KidooLand/Alphabet_B)[![alph](/images/alph.png){:height="40px"}](https://english-homework.github.io/KidooLand/Alphabet_B) 
 ## [Topic 8 - The Calendar](https://english-homework.github.io/KidooLand/Calendar_B)[![days](/images/days.PNG){:height="40px"}](https://english-homework.github.io/KidooLand/Calendar_B)
 ## [Topic 9 - Talking about me](https://english-homework.github.io/KidooLand/Body_Parts_B)[![hsktbw](/images/hsktbw.jpg){:height="40px"}](https://english-homework.github.io/KidooLand/Body_Parts_B)
