@@ -40,7 +40,7 @@
 
 ***  
 
-[![pgcol1](/images/pgcol1.PNG){:height="75px"}](https://www.purposegames.com/game/858) [![pgcol1bfr](/images/pgcol1bfr.PNG){:height="70px"}](https://www.purposegames.com/game/858)
+[![pgcol1](/images/pgcol1.PNG){:height="75px"}](https://www.purposegames.com/game/858) [![pgcol1bfr](/images/pgcol1bfr.PNG){:height="60px"}](https://www.purposegames.com/game/858)
 
 ***
 [![home](/images/home.png){:height="50px"}](https://english-homework.github.io/KidooLand) [Return to the English Homepage](https://english-homework.github.io/KidooLand)
