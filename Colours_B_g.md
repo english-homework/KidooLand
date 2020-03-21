@@ -16,7 +16,7 @@
 
 ***
 
-[![lvwkcol2](/images/lvwkcol2.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Colours_eh11544nn) [![lvwkcol2bfr](/images/lvwkcol2bfr.PNG){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Colours_eh11544nn)   
+[![lvwkcol2](/images/lvwkcol2.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Colours_eh11544nn) [![lvwkcol2bfr](/images/lvwkcol2bfr.PNG){:height="85px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Colours_eh11544nn)   
 
 ***
 
@@ -28,10 +28,15 @@
 
 ***
 
-[![lvwkcol4](/images/lvwkcol4.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Colores_gs14225mz) [![lvwkcol4bfr](/images/lvwkcol4bfr.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Colores_gs14225mz)
+[![lvwkcol4](/images/lvwkcol4.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Colores_gs14225mz) [![lvwkcol4bfr](/images/lvwkcol4bfr.PNG){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Colores_gs14225mz)
 
 ***
 
+[![lvwkcol6](/images/lvwkcol6.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Colores_gs14225mz) [![lvwkcol6bfr](/images/lvwkcol6bfr.PNG){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Colores_gs14225mz)
+
+***
+
+[![lvwkcol7](/images/lvwkcol7.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Colores_gs14225mz) [![lvwkcol7bfr](/images/lvwkcol7bfr.PNG){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Colores_gs14225mz)
 
 
 ***
