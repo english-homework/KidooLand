@@ -16,6 +16,14 @@
 
 ***
 
+[![lvwkcol2](/images/lvwkcol2.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Colours_eh11544nn) [![lvwkcol2bfr](/images/lvwkcol2bfr.PNG){:height="35px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Colours_eh11544nn) (Actividade de Liveworksheets)  
+
+***  
+
+[![cobi](/images/cobi.PNG){:height="75px"}](http://www.abcya.com/shapes_colors_bingo.htm) [BINGO](http://www.abcya.com/shapes_colors_bingo.htm) Clique sur ‘Colors’ ![cobi2](/images/cobi2.PNG){:height="60px"} (Jeu de ABCya)    
+
+***
+
 [![rainb](/images/rainb.png){:height="75px"}](https://www.youtube.com/watch?v=y7nE4ADGaOc?start=0&end=33) [I can sing a rainbow](https://www.youtube.com/watch?v=y7nE4ADGaOc?start=0&end=33) (Chanson  traditionelle de AprenderYdivertirse)  
 
 Red and yellow and pink and green, orange and purple and blue.  
@@ -41,10 +49,6 @@ I can sing a rainbow, sing a rainbow, sing a rainbow too.
 
 ***Question:*** **'What colour is it?' (C'est de quelle couleur?)**  
 ***Answer:*** **'It's ..*colour*.. .' (C'est ..*couleur*)**
-
-***  
-
-[![cobi](/images/cobi.PNG){:height="75px"}](http://www.abcya.com/shapes_colors_bingo.htm) [BINGO](http://www.abcya.com/shapes_colors_bingo.htm) Clique sur ‘Colors’ ![cobi2](/images/cobi2.PNG){:height="60px"} (Jeu de ABCya)    
 
 ***  
 
