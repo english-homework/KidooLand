@@ -12,11 +12,11 @@
 
 ### Colours - Games
 
-[![lvwkcol1](/images/lvwkcol1.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Listen_and_Repeat_the_colours_vg3506tj) [![lvwkcol1bfr](/images/lvwkcol1bfr.PNG){:height="35px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Listen_and_Repeat_the_colours_vg3506tj) (Actividade de Liveworksheets)  
+[![lvwkcol1](/images/lvwkcol1.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Listen_and_Repeat_the_colours_vg3506tj) [![lvwkcol1bfr](/images/lvwkcol1bfr.PNG){:height="40px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Listen_and_Repeat_the_colours_vg3506tj) (Actividade de Liveworksheets)  
 
 ***
 
-[![lvwkcol2](/images/lvwkcol2.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Colours_eh11544nn) [![lvwkcol2bfr](/images/lvwkcol2bfr.PNG){:height="35px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Colours_eh11544nn) (Actividade de Liveworksheets)  
+[![lvwkcol2](/images/lvwkcol2.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Colours_eh11544nn) [![lvwkcol2bfr](/images/lvwkcol2bfr.PNG){:height="80px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Colours_eh11544nn)   
 
 ***
 
@@ -28,7 +28,7 @@
 
 ***
 
-[![lvwkcol4](/images/lvwkcol4.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Colores_gs14225mz) [![lvwkcol4bfr](/images/lvwkcol4bfr.PNG){:height="35px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Colores_gs14225mz) (Actividade de Liveworksheets)  
+[![lvwkcol4](/images/lvwkcol4.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Colores_gs14225mz) [![lvwkcol4bfr](/images/lvwkcol4bfr.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Colores_gs14225mz)
 
 ***
 
