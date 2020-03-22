@@ -1,10 +1,10 @@
+<head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-160613202-2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'UA-160613202-2');
 </script>
 
@@ -24,6 +24,8 @@ English
   <br>
 </p>
 </h2>
+</head>
+
 <!--<p align="center">
   <a href="https://english-homework.github.io/KidooLand/Year3">Year 3</a>
   <br>
