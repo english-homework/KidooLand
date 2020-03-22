@@ -18,6 +18,10 @@
 
 [![lvwkcol2](/images/lvwkcol2.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Colours_eh11544nn) [![lvwkcol2bfr](/images/lvwkcol2bfr.PNG){:height="85px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Colours_eh11544nn)   
 
+***  
+
+[![oupcol](/images/oupcol.PNG){:height="75px"}](https://elt.oup.com/student/happyhouse/level2/games_02/games_02_02/games_unit02_02?cc=tr&selLanguage=en) [![oupcolbfr](/images/oupcolbfr.PNG){:height="60px"}](https://elt.oup.com/student/happyhouse/level2/games_02/games_02_02/games_unit02_02?cc=tr&selLanguage=en)  
+
 ***
 
 [![cobi](/images/cobi.PNG){:height="75px"}](http://www.abcya.com/shapes_colors_bingo.htm) [BINGO](http://www.abcya.com/shapes_colors_bingo.htm) Clique sur ‘Colors’ ![cobi2](/images/cobi2.PNG){:height="60px"} (Jeu de ABCya)    
