@@ -49,6 +49,6 @@
 <audio src="audio/i_need_to_leave.mp3" controls preload></audio>
 
 ***
-[![home](/images/home.PNG)](https://english-homework.github.io/KidooLand/Year3) [Return to Year 3 English Site](https://english-homework.github.io/KidooLand/Year3)
+[![home](/images/home.png){:height="50px"}](https://english-homework.github.io/KidooLand) [Return to the English Homepage](https://english-homework.github.io/KidooLand)
 
 ***
