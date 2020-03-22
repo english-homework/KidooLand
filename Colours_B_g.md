@@ -46,6 +46,10 @@
 
 [![pgcol1](/images/pgcol1.PNG){:height="75px"}](https://www.purposegames.com/game/858) [![pgcol1bfr](/images/pgcol1bfr.PNG){:height="60px"}](https://www.purposegames.com/game/858)
 
+***  
+
+[![litccol](/images/litccol.PNG){:height="75px"}](http://literacycenter.net/play_learn/words_en/color_type_en.php) [![litccolbfr](/images/litccolbfr.PNG){:height="75px"}](http://literacycenter.net/play_learn/words_en/color_type_en.php)  
+
 ***
 [![home](/images/home.png){:height="50px"}](https://english-homework.github.io/KidooLand) [Return to the English Homepage](https://english-homework.github.io/KidooLand)
 
