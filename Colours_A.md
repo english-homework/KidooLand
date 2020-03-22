@@ -20,6 +20,10 @@
 
 ***  
 
+[![oupcol](/images/oupcol.PNG){:height="75px"}](https://elt.oup.com/student/happyhouse/level2/games_02/games_02_02/games_unit02_02?cc=tr&selLanguage=en) [![oupcolbfr](/images/oupcolbfr.PNG){:height="30px"}](https://elt.oup.com/student/happyhouse/level2/games_02/games_02_02/games_unit02_02?cc=tr&selLanguage=en)  
+
+***  
+
 [![cobi](/images/cobi.PNG){:height="75px"}](http://www.abcya.com/shapes_colors_bingo.htm) [BINGO](http://www.abcya.com/shapes_colors_bingo.htm) Clique sur ‘Colors’ ![cobi2](/images/cobi2.PNG){:height="60px"} (Jeu de ABCya)    
 
 ***
