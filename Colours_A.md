@@ -20,7 +20,7 @@
 
 ***  
 
-[![oupcol](/images/oupcol.PNG){:height="75px"}](https://elt.oup.com/student/happyhouse/level2/games_02/games_02_02/games_unit02_02?cc=tr&selLanguage=en) [![oupcolbfr](/images/oupcolbfr.PNG){:height="40px"}](https://elt.oup.com/student/happyhouse/level2/games_02/games_02_02/games_unit02_02?cc=tr&selLanguage=en)  
+[![oupcol](/images/oupcol.PNG){:height="75px"}](https://elt.oup.com/student/happyhouse/level2/games_02/games_02_02/games_unit02_02?cc=tr&selLanguage=en) [![oupcolbfr](/images/oupcolbfr.PNG){:height="45px"}](https://elt.oup.com/student/happyhouse/level2/games_02/games_02_02/games_unit02_02?cc=tr&selLanguage=en)  
 
 ***  
 
