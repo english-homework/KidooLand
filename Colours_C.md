@@ -22,4 +22,4 @@ Play some games to learn the colours/Joga alguns jogos para aprender as cores:
 [![home](/images/home.png){:height="50px"}](https://english-homework.github.io/KidooLand) [Return to the English Homepage](https://english-homework.github.io/KidooLand)
 
 ***
-![note](/images/note.PNG){:width="635px"}
+![note](/images/note.PNG){:width="638px"}
