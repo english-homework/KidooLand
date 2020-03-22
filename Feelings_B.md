@@ -21,7 +21,7 @@
 ***  
 
 [![felvwk2](/images/felvwk2.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Feelings_and_emotions/Feelings_listen_and_match_kj7761ud) [Émotions - fais correspondre le mot et l'image](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Feelings_and_emotions/Feelings_listen_and_match_kj7761ud)  
-Clique sur l'espace blanc à côté du mot pour écouter le mot. Trace une ligne entre le mot et l'image. Une fois terminé, cliquez sur le bouton bleu «FINISH» en bas, et puis sur la loupe pour corriger. (Exercices de Liveworksheets)   
+Clique sur l'espace blanc dans la boîte à côté du mot pour écouter le mot. Trace une ligne entre le mot et l'image. Une fois terminé, cliquez sur le bouton bleu «FINISH» en bas, et puis sur la loupe pour corriger. (Exercices de Liveworksheets)   
 
 ***  
 
