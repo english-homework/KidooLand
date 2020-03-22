@@ -1,14 +1,3 @@
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-160613202-2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'UA-160613202-2');
-</script>
-</head>
-
 ### Body Parts - Games
 
 (1).[![bpme2](/images/bpme2.PNG)](https://www.eslgamesplus.com/body-parts-esl-vocabulary-memory-game/) [Play 'memory'](https://www.eslgamesplus.com/body-parts-esl-vocabulary-memory-game/)
