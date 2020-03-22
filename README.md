@@ -1,5 +1,5 @@
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
+<!--<head>
+Global site tag (gtag.js) - Google Analytics 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-160613202-2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -7,6 +7,8 @@
   gtag('js', new Date());
   gtag('config', 'UA-160613202-2');
 </script>
+</head>
+-->
 
 <h2> 
 <p align="center">
@@ -33,4 +35,4 @@ English
   <br>
 </p>
 </h4>-->
-</head>
+
