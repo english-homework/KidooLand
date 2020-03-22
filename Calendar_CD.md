@@ -1,15 +1,3 @@
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-160613202-2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-160613202-2');
-</script>
-</head>
-
 ### Calendar
 
 *Remember, in English we write the days of the week and the months of the year with a capital letter... / Não te esqueças que em inglês, escrevemos os dias da semana e os meses do ano com uma letra maiúscula...*
