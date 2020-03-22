@@ -1,15 +1,3 @@
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-160613202-2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-160613202-2');
-</script>
-</head>
-
 ### Colours - Games
 
 [![lvwkcol1](/images/lvwkcol1.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Listen_and_Repeat_the_colours_vg3506tj) [![lvwkcol1bfr](/images/lvwkcol1bfr.PNG){:height="40px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Listen_and_Repeat_the_colours_vg3506tj) (Actividade de Liveworksheets)  
