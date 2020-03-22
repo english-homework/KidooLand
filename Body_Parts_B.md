@@ -1,14 +1,3 @@
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-160613202-2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'UA-160613202-2');
-</script>
-</head>
-
 ### Body parts 
 
 #### ![sing](/images/sing.png) [Song/Vocabulary](https://english-homework.github.io/KidooLand/Body_Parts_B_song)
