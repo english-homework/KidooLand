@@ -1,15 +1,3 @@
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-160613202-2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-160613202-2');
-</script>
-</head>
-
 ### Colours - Language structures
 
 [![dewc](/images/dewc.png){:height="75px"}](https://www.youtube.com/watch?v=YyFLBTTAbSE)
