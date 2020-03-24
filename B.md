@@ -17,8 +17,6 @@ Level 2 English
 
 ## [Topic 6 - Toys](https://english-homework.github.io/KidooLand/Toys_B) [![toys](/images/toys.PNG){:height="40px"}](https://english-homework.github.io/KidooLand/Toys_B)
 
-## Topic 6 - Talking about colour ![colmix2](/images/colmix2.png){:height="40px"}
-
 ## Topic 7 - The Alphabet ![alph](/images/alph.png){:height="40px"} 
 
 ## Topic 8 - The Calendar ![days](/images/days.PNG){:height="40px"}
